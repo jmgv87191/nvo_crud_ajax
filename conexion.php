@@ -11,6 +11,4 @@
         die( "conexion sin exito". mysqli_connect_error() );
     }
 
-    echo( "conexion exitosa" )
-
 ?>
